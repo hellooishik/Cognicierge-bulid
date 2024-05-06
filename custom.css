@@ -1,0 +1,8 @@
+/* Custom CSS Intiazation  */
+
+.rd-navbar-classic.rd-navbar-static .rd-navbar-brand img {
+    width: 20vh !important;
+    height: auto;
+    max-width: 180px;
+    max-height: 180px;
+}
